@@ -1,4 +1,35 @@
+* 1번
+
+* 2번
+
+```
+print("hahahaahahahahahahahaha");
+
+```
+
+
+# Hi there 👋
+## Hi there 👋
 ### Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
+---
+**볼드**
+*이탤릭*
+~~스트라이크~~
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **rrud2/rrud2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
