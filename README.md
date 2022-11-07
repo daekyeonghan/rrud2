@@ -1,22 +1,9 @@
-* 1번
-
-* 2번
-
-```
-print("hahahaahahahahahahahaha");
-
-```
-
 
 # Hi there 👋
 ## Hi there 👋
 ### Hi there 👋
 #### Hi there 👋
 ##### Hi there 👋
----
-**볼드**
-*이탤릭*
-~~스트라이크~~
 
 
 
